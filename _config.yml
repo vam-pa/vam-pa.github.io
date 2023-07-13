@@ -19,7 +19,7 @@ locale                   : "kr"
 title                    : "뱀파 블로그"
 title_separator          : "-"
 subtitle                 : "뱀파의 깃허브 블로그"
-name                     : vam-pa
+name                     : "vam-pa"
 description              : "안녕하세요. 블로그에 와주셔서 감사합니다."
 url                      :"https://vam-pa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
